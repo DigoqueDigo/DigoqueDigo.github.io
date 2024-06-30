@@ -1,5 +1,3 @@
-#  The contact options.
-
 - type: email
   icon: "fas fa-envelope"
   noblank: true

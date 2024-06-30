@@ -23,20 +23,20 @@ search:
 
 panel:
   lastmod: Atualizados recentemente
-  trending_tags: Trending Tags
+  trending_tags: Tags populares
   toc: Conteúdo
 
 copyright:
   # Shown at the bottom of the post
   license:
-    template: Este post está licenciado sob :LICENSE_NAME pelo autor.
+    template: Esta publicação está licenciado sob :LICENSE_NAME pelo autor.
     name: CC BY 4.0
     link: https://creativecommons.org/licenses/by/4.0/
 
   # Displayed in the footer
   brief: Alguns direitos reservados.
   verbose: >-
-    Exceto onde indicado de outra forma, os posts do blog neste site são licenciadas sob a
+    Exceto onde indicado de outra forma, as publicações neste site são licenciadas sob a
     Creative Commons Attribution 4.0 International (CC BY 4.0) License pelo autor.
 
 meta: Desenvolvido com :PLATFORM e :THEME
@@ -52,22 +52,22 @@ notification:
 
 post:
   written_by: Por
-  posted: Postado em
+  posted: Publicado a
   updated: Atualizado
   words: palavras
   pageview_measure: visualizações
   read_time:
     unit: min
     prompt: " de leitura"
-  relate_posts: Relacionados
-  share: Partihlar
+  relate_posts: Publicações relacionadas
+  share: Partilhar
   button:
     next: Próximo
     previous: Anterior
     copy_code:
       succeed: Copiado!
     share_link:
-      title: Copia o link
+      title: Copiar o link
       succeed: Link copiado com sucesso!
 
 # categories page
