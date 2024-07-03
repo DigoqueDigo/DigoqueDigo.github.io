@@ -19,7 +19,7 @@ tabs:
 search:
   hint: Procurar
   cancel: Cancelar
-  no_results: Oops! Nenhum resultado encontrado.
+  no_results: Nenhum resultado encontrado.
 
 panel:
   lastmod: Atualizados recentemente
@@ -46,12 +46,12 @@ not_found:
 
 notification:
   update_found: Está disponível uma nova versão.
-  update: atualização
+  update: Atualizar
 
 # ----- Posts related labels -----
 
 post:
-  written_by: Por
+  written_by: Escrito por
   posted: Publicado a
   updated: Atualizado
   words: palavras
