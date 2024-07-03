@@ -1,7 +1,7 @@
 ---
 title: Um Novo Começo
 author: digo
-date: '2020-11-02T09:41:00.013Z'
+date: 2020-11-02 09:41:00 +0100
 categories: [Blogging, Informações]
 tags: [informações]
 ---

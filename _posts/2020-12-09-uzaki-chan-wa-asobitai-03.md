@@ -1,7 +1,7 @@
 ---
 title: Uzaki-chan wa Asobitai! - 03 [720p]
 author: digo
-date: '2020-12-09T15:54:00.010Z'
+date: 2020-12-09 15:54:00 +0100
 categories: [Fansubbing, Uzaki-chan wa Asobitai!]
 tags: [anime, séries]
 image: ./assets/img/anime/7af5015f842900b7d3cc5437bf4166147edb4f7c.jpeg
