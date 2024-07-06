@@ -1,6 +1,6 @@
 ---
 layout: page
-icon: fas fa-tags
+icon: fa-solid fa-folder-closed
 order: 4
 ---
 
