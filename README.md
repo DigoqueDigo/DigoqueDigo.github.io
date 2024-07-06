@@ -1,61 +1,21 @@
-# Chirpy Starter
+# Verisse Sub - website
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Inicialmente a ***Verisse Sub*** era uma *fansub* com tantas outras, nascida dum pequeno grupo de amigos e fãs de bonecada japonesa, com o passar do tempo o interesse neste projeto foi-se perdendo e atualmente sou o único envolvido, pelo que a regularidade de lançamentos é francamente baixa.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## Projetos
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+Todas as séries e filmes de *anime* são bem-vindos, contudo é vital que os seguintes critérios sejam respeitados.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+- O projeto tem de ser virgem, ou seja, não pode estar nos planos doutra *fansub* portuguesa.
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+- Caso existam várias temporadas, nenhuma pode ter mais de 13 episódios.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+> A mão de obra anda escassa por estas bandas, se existirem muitos episódios nunca mais acabo a temporada, e detesto deixar coisas a meio. O último ponto poderá vir a ser removido caso o `NCN` e o `Melman` decidam voltar.
 
-## Prerequisites
+## Contribuir
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+Apesar de ser o único envolvido, não sinto qualquer necessidade de recrutar novos membros, na realidade até prefiro trabalhar sozinho. Seja como for, estou sempre aberto a sugestões, pelo que podem expressar-se de livre vontade nos comentários.
 
-## Installation
+Caso não tenham reparado, existe um repositório do *website* no ***Github***, como tal podem abrir um *pull request* e apresentar todas as alterações que acharem pertinentes, obviamente que depois terão de passar pelo meu crivo.
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
-
-Then clone it to your local machine and run:
-
-```console
-$ bundle
-```
-
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## Contributing
-
-The contents of this repository are automatically updated when new releases are made to the [main repository][chirpy].
-If you have problems using it, or would like to participate in improving it, please go to the main repository for feedback!
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+> ___NOTA:___ A primeira versão do *website* utilizava o ***Blogger***, mais tarde percebi o quão horrível aquilo era e decidi mudar para ***Jekyll***. Durante a migração de dados consegui copiar todas as publicações, contudo os comentários não puderam ser reaproveitados, visto estar a utilizar um sistema completamente distinto
