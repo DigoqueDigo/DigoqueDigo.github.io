@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-Inicialmente a ***Verisse Sub*** era uma *fansub* com tantas outras, nascida dum pequeno grupo de amigos fãs de bonecada japonesa, com o passar do tempo o interesse neste projeto foi-se perdendo e atualmente sou o único envolvido, pelo que a regularidade de lançamentos é francamente baixa.
+Inicialmente a ***Verisse Sub*** era uma *fansub* com tantas outras, nascida dum pequeno grupo de amigos e fãs de bonecada japonesa, com o passar do tempo o interesse neste projeto foi-se perdendo e atualmente sou o único envolvido, pelo que a regularidade de lançamentos é francamente baixa.
 
 # Projetos
 
