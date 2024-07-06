@@ -12,8 +12,9 @@ tabs:
   home: Home
   categories: Categorias
   tags: Tags
-  archives: Arquivos
+  archives: Arquivo
   about: Sobre
+  projects: Projetos
 
 # the text displayed in the search bar & search results
 search:
