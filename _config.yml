@@ -193,3 +193,22 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+    drafts:
+      author:
+      categories:
+      tags:
+      image:
+    posts:
+      author:
+      categories:
+      tags:
+      image:
+    things:
+      description:
+      image:
+      category:
+      tags:

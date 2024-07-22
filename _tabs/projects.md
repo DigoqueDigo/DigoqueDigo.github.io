@@ -7,7 +7,7 @@ order: 4
 | Projeto                                                             | Contribuidores    | Rip            | Estado           | Episódios       |
 | ------------------------------------------------------------------- | ----------------- | -------------- | ---------------- | --------------- |
 | [Amanee!][amanee]                                                   | `Digo`            | `BD`           | Terminado        | 1/1             |
-| [Hoshiai no Sora][hoshiai no sora]                                  | `Digo & Melman`   | `BD`           | Em andamento     | 10/12           |
+| [Hoshiai no Sora][hoshiai no sora]                                  | `Digo & Melman`   | `BD`           | Em andamento     | 11/12           |
 | [Overflow][overflow]                                                | `Digo`            | `BD`           | Terminado        | 8/8             |
 | [Sora no Aosa wo Shiru Hito yo][sora no aosa wo shiru hito yo]      | `Digo & NCN`      | `BD`           | Terminado        | 1/1             |
 | [Uzaki-chan wa Asobitai!][uzaki-chan wa asobitai]                   | `Digo & NCN`      | `BD`           | Terminado        | 12/12           |
