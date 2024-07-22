@@ -20,7 +20,7 @@ Mudando de assunto, tenho uma teoria que relaciona o caso de Touma com o do Rint
 
 Durante o epílogo, o Ryouma afirma que protegerá os seus irmãos, a princípio pensei que isto seria um erro de tradução, como tal fui analisar a versão italiana que dizia exatamente o mesmo.
 
-Tanto que sei, o Touma é o único irmão do Ryouma, então porque terá mencionado ***irmãos***? Julgo que o Rintarou é a chave desta história, pois em certa medida isso ajuda a justificar o estado de permanente tristeza daquela senhora. Além disso, no momento em que o Rintarou viu a mãe, as roupas desta eram semelhantes às da mãe do Touma (ou então não, e estou a tentar encontrar uma justificação à toa).
+Tanto quanto sei, o Touma é o único irmão do Ryouma, então porque terá mencionado ***irmãos***? Julgo que o Rintarou é a chave desta história, pois em certa medida isso ajuda a justificar o estado de permanente tristeza daquela senhora. Além disso, no momento em que o Rintarou viu a mãe, as roupas desta eram semelhantes às da mãe do Touma (ou então não, e estou a tentar encontrar uma justificação à toa).
 
 > Provavelmente isto é tudo mentira e estou a fazer um grande filme na minha cabeça, mas se houvesse a mínima hipótese disto ser verdade, teríamos uma grande reviravolta.
 {: .prompt-warning }
