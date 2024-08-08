@@ -4,7 +4,7 @@ author: digo
 date: 2021-09-03 22:05:00 +0100
 categories: [Fansubbing, Uzaki-chan wa Asobitai!] 
 tags: [anime, séries]
-image: ./assets/img/anime/256722b4d708fdfdde0ab9ed6ef10f62c463e204.jpeg
+image: ./assets/img/thumbnails/256722b4d708fdfdde0ab9ed6ef10f62c463e204.jpeg
 ---
 
 Neste episódio é mencionado o termo *Golden Week*, e apesar de não achar relevante saber o seu significado, convém dar uma breve explicação aos mais curiosos.

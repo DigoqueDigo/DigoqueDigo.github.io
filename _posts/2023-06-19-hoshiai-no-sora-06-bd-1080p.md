@@ -4,7 +4,7 @@ author: digo
 date: 2023-06-19 15:54:00 +0100
 categories: [Fansubbing, Hoshiai no Sora] 
 tags: [anime, séries]
-image: ./assets/img/anime/7000e07a0546d0e2665136a37e9f0df7f3073e8a.jpeg
+image: ./assets/img/thumbnails/7000e07a0546d0e2665136a37e9f0df7f3073e8a.jpeg
 ---
 
 Muito sinceramente não sei pormenores acerca do incidente que aflige o *Sakurai*, portanto vou dar um palpite com base naquilo que todos conhecemos.

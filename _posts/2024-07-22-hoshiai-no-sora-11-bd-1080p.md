@@ -4,7 +4,7 @@ date: 2024-07-22 15:06 +0100
 author: digo
 categories: [Fansubbing, Hoshiai no Sora] 
 tags: [anime, séries]
-image: ./assets/img/anime/331fc7cad7a992337167e25c7d1c0db32fad9539.jpeg
+image: ./assets/img/thumbnails/331fc7cad7a992337167e25c7d1c0db32fad9539.jpeg
 ---
 
 Com a chegada dos últimos episódios, torna-se evidente a necessidade de acelerar os dramas das personagens, tanto que neste episódio foram desenvolvidos três desses casos.
