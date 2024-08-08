@@ -11,7 +11,7 @@ Com a chegada dos últimos episódios, torna-se evidente a necessidade de aceler
 
 O desenrolar do comportamento do Nao era previsível, pois ultimamente as suas ações tinham cada vez menos a aprovação da mãe, e eram tomadas em função daquilo que achava correto. Contudo, e apesar destes avanços, parece-me que jamais conseguirá escapar da prisão onde vive.
 
-Todos os membros do clube têm um ombro amigo, ou seja, o Maki apoia-se na mãe, enquanto o Touma tem o irmão. No entanto o Nao está sozinho, sem ninguém que o encoraje a seguir o caminho correto, e sendo provável que volte a submeter-se ao domínio à mãe.
+Todos os membros do clube têm um ombro amigo, ou seja, o Maki apoia-se na mãe, enquanto o Touma tem o irmão. No entanto o Nao está sozinho, sem ninguém que o encoraje a seguir o caminho correto, e sendo provável que volte a submeter-se ao domínio da mãe.
 
 Mudando de assunto, tenho uma teoria que relaciona o caso de Touma com o do Rintarou, sei que pode parecer estranho, como tal gostava de saber a vossa opinião nos comentários.
 
