@@ -43,7 +43,7 @@ Embora a configuração base do mpv seja razoavelmente boa, talvez sintam falta 
 
 Neste cenário foi utilizado um *shader* para *line sharpening*, caso estejam com dificuldades em notar as diferenças, reparem no muro da ponte e no poste, aí as melhorias parecem-me mais evidentes. Em todo o caso, utilizar *shaders* é um extra, com a versão base do mpv ficam bem servidos.
 
-> Por motivos que desconheço, as máscaras perdem transparência quando as dimensões da janela são diferentes da resolução do vídeo, felizmente basta adicionar a opção `blend-subtitles=video` ao `mpv.conf`, assim as legendas são adaptadas ao tamanho da janela. 
+> Por motivos que desconheço, as máscaras adquirem transparência quando as dimensões da janela são diferentes da resolução do vídeo, felizmente basta adicionar a opção `blend-subtitles=video` ao `mpv.conf`, assim as legendas são adaptadas ao tamanho da janela. 
 {: .prompt-warning }
 
 [vlc_link]: https://www.videolan.org/
