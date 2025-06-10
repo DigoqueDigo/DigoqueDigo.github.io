@@ -55,9 +55,10 @@ chmod +x tools/test.sh
 
 ---
 
-The [jekyll-compose](https://github.com/jekyll/jekyll-compose) plugin makes it easier to write posts and other related things
 
 ## 📝 Write Post
+
+The [jekyll-compose](https://github.com/jekyll/jekyll-compose) plugin makes it easier to write posts and other related things.
 
 ```
 bundle exec jekyll compose "My New Post"
