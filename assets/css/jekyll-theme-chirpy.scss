@@ -1,5 +1,11 @@
 ---
 ---
 
-@import 'main{%- if jekyll.environment == "production" -%}.bundle{%- endif -%}';
-@import 'custom';
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+@use 'custom';
