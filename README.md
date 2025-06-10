@@ -1,6 +1,6 @@
 # Verisse Sub
 
-Verisse Sub is a personal website dedicated to anime-related projects, fansubs, and broader creative expression. Built with [Jekyll](https://jekyllrb.com/) and [Ruby](https://www.ruby-lang.org/pt/), it combines the flexibility of a static site generator with a clean, maintainable architecture.
+Verisse Sub is a personal website dedicated to anime-related projects, fansubs, and broader creative expression. Built with [Jekyll](https://jekyllrb.com/) and [Ruby](https://www.ruby-lang.org/pt/), it combines the flexibility of a static site generator with a clean and maintainable architecture.
 
 ---
 
