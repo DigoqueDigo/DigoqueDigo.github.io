@@ -26,7 +26,7 @@ bundle install
 
 ## 🔧 Run Local Server
 
-Start a local development server (by default, the site will be available at http://localhost:4000).
+Start a local development server (by default, the site will be available at `http://localhost:4000`).
 
 ```
 bundle exec jekyll serve
@@ -36,7 +36,7 @@ bundle exec jekyll serve
 
 ## 🏗️ Build for Production
 
-Generate the static site for deployment (the compiled files will be output to the _site/ directory).
+Generate the static site for deployment (the compiled files will be output to `_site/`).
 
 ```
 bundle exec jekyll build
