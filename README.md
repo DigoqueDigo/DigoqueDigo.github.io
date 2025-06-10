@@ -1,21 +1,64 @@
-# Verisse Sub - website
+# Verisse Sub
 
-Inicialmente a ***Verisse Sub*** era uma *fansub* com tantas outras, nascida dum pequeno grupo de amigos e fãs de bonecada japonesa, com o passar do tempo o interesse neste projeto foi-se perdendo e atualmente sou o único envolvido, pelo que a regularidade de lançamentos é francamente baixa.
+Verisse Sub is a personal website dedicated to anime-related projects, fansubs, and broader creative expression. Built with [Jekyll](https://jekyllrb.com/) and [Ruby](https://www.ruby-lang.org/pt/), it combines the flexibility of a static site generator with a clean, maintainable architecture.
 
-## Projetos
+---
 
-Todas as séries e filmes de *anime* são bem-vindos, contudo é vital que os seguintes critérios sejam respeitados.
+## 📦 Requirements
 
-- O projeto tem de ser virgem, ou seja, não pode estar nos planos doutra *fansub* portuguesa.
+- **Ruby** (developed using version `3.3.0`)
+- **RubyGems** (developed using version `3.5.14`)
+- [Bundler](https://bundler.io/) for dependency management
 
-- Caso existam várias temporadas, nenhuma pode ter mais de 13 episódios.
+---
 
-> A mão de obra anda escassa por estas bandas, se existirem muitos episódios nunca mais acabo a temporada, e detesto deixar coisas a meio. O último ponto poderá vir a ser removido caso o `NCN` e o `Melman` decidam voltar.
+## 🚀 Getting Started
 
-## Contribuir
+Clone the repository and install dependencies.
 
-Apesar de ser o único envolvido, não sinto qualquer necessidade de recrutar novos membros, na realidade até prefiro trabalhar sozinho. Seja como for, estou sempre aberto a sugestões, pelo que podem expressar-se de livre vontade nos comentários.
+```
+git clone git@github.com:DigoqueDigo/DigoqueDigo.github.io.git
+cd DigoqueDigo.github.io
+bundle install
+```
 
-Caso não tenham reparado, existe um repositório do *website* no ***Github***, como tal podem abrir um *pull request* e apresentar todas as alterações que acharem pertinentes, obviamente que depois terão de passar pelo meu crivo.
+---
 
-> ___NOTA:___ A primeira versão do *website* utilizava o ***Blogger***, mais tarde percebi o quão horrível aquilo era e decidi mudar para ***Jekyll***. Durante a migração de dados consegui copiar todas as publicações, contudo os comentários não puderam ser reaproveitados, visto estar a utilizar um sistema completamente distinto
+## 🔧 Run Local Server
+
+Start a local development server (by default, the site will be available at http://localhost:4000).
+
+```
+bundle exec jekyll serve
+```
+
+---
+
+## 🏗️ Build for Production
+
+Generate the static site for deployment (the compiled files will be output to the _site/ directory).
+
+```
+bundle exec jekyll build
+```
+
+---
+
+## ✅ Run Tests
+
+Execute the test script to validate your setup.
+
+```
+chmod +x tools/test.sh
+./tools/test.sh
+```
+
+---
+
+The [jekyll-compose](https://github.com/jekyll/jekyll-compose) plugin makes it easier to write posts and other related things
+
+## 📝 Write Post
+
+```
+bundle exec jekyll compose "My New Post"
+```
