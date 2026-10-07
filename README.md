@@ -18,33 +18,9 @@ Source of [digoquedigo.github.io](https://digoquedigo.github.io), the website of
 | Site generator | [Jekyll](https://jekyllrb.com/) 4.4 |
 | Theme | [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) 7.6, installed as a gem |
 | Comments | [giscus](https://giscus.app/), stored in this repo's Discussions ("Comments" category) |
-| Analytics and page views | [GoatCounter](https://www.goatcounter.com/) (`verissesub`) |
+| Analytics and page views | [GoatCounter](https://verissesub.goatcounter.com//) |
 | Hosting | GitHub Pages, deployed by GitHub Actions |
 | Extras | Offline-capable PWA, full-text search, light/dark theme |
-
-## Repository layout
-
-```text
-_posts/                  posts, one Markdown file each
-_tabs/                   sidebar pages (about, archives, categories, projects, tags)
-_data/
-  authors.yml            post authors
-  contact.yml            contact buttons at the bottom of the sidebar
-  share.yml              share buttons under each post
-  locales/pt.yml         Portuguese interface strings
-_plugins/
-  posts-lastmod-hook.rb  sets each post's "Atualizado" date from git history
-_sass/custom.scss        style overrides on top of Chirpy
-assets/img/
-  favicons/              site icons
-  thumbnails/            post cover images
-  posts/                 images used inside posts
-assets/.scripts/         image helper scripts
-tools/                   run.sh (local server) and test.sh (build + checks)
-_config.yml              site settings
-```
-
-The theme's layouts, includes and most styles come from the `jekyll-theme-chirpy` gem, so they aren't in this repository. Run `bundle info --path jekyll-theme-chirpy` to find them.
 
 ## Getting started
 
