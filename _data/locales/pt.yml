@@ -43,11 +43,16 @@ copyright:
 meta: Desenvolvido com :PLATFORM e :THEME
 
 not_found:
-  statment: Desculpa, página não encontrada.
+  statement: Desculpa, página não encontrada.
 
 notification:
-  update_found: Está disponível uma nova versão.
+  update_found: Novo conteúdo disponível
   update: Atualizar
+
+theme:
+  light: Claro
+  dark: Escuro
+  system: Sistema
 
 # ----- Posts related labels -----
 
@@ -60,6 +65,7 @@ post:
   read_time:
     unit: min
     prompt: " de leitura"
+  edit: Editar esta publicação
   relate_posts: Publicações relacionadas
   share: Partilhar
   button:

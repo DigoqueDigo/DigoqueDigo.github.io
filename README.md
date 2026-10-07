@@ -6,8 +6,8 @@ Verisse Sub is a personal website dedicated to anime-related projects, fansubs, 
 
 ## 📦 Requirements
 
-- **Ruby** (developed using version `3.3.0`)
-- **RubyGems** (developed using version `3.5.14`)
+- **Ruby** (developed using version `4.0.7`)
+- **RubyGems** (developed using version `4.0.20`)
 - [Bundler](https://bundler.io/) for dependency management
 
 ---
