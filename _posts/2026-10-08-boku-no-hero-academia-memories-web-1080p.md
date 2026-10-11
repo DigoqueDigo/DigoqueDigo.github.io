@@ -27,8 +27,13 @@ Feitas as contas, fiquei agradado com o resultado. As legendas não estão ao n�
 > Tirando os karaokes, que já vinham na legendagem inglesa, tudo o resto foi feito pela AI. Em nenhum momento abri o [Aegisub][aegisub_link] para editar as legendas.
 {: .prompt-info }
 
-Seja como for, este *post* não passa de uma brincadeira de uma tarde e não tenciono torná-la um hábito. Já basta o YouTube, o Instagram e companhia estarem a abarrotar de *AI slop*, não quero ver a comunidade ir pelo mesmo caminho! Agora, se me dão licença, vou ali espreitar se o Yaris continua sem avarias.
+<!-- Seja como for, este *post* não passa de uma brincadeira de uma tarde e não tenciono torná-la um hábito. Já basta o YouTube, o Instagram e companhia estarem a abarrotar de *AI slop*, não quero ver a comunidade ir pelo mesmo caminho! Agora, se me dão licença, vou ali espreitar se o Yaris continua sem avarias. -->
+
+<!-- Recentemente, descobri a [SubsNoJutsu][subsnojutsu_link], uma fansub que utiliza IA para auxiliar no processo de fansubbing. Por isso, considero preferível reformular a frase anterior, de modo a evitar que possa ser interpretada como uma referência direta ao trabalho deles, uma vez que não é essa a minha intenção. -->
+
+Seja como for, este *post* não passa de uma brincadeira de uma tarde e não tenciono torná-la um hábito. Agora, se me dão licença, vou ali espreitar se o Yaris continua sem avarias.
 
 [regras_link]: https://wiki.fansub.pt/Tradu%C3%A7%C3%A3o
 [bakesubs_link]: https://bakemono.fansub.pt/
 [aegisub_link]: https://github.com/arch1t3cht/Aegisub
+[subsnojutsu_link]: https://subsnojutsu.pt/
